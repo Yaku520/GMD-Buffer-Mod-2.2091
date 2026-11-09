@@ -1,6 +1,6 @@
 # Input Buffer
 
-A Geode mod for Geometry Dash 2.2081 (Windows) that makes tight timings easier.
+A Geode mod for Geometry Dash 2.2091 (Windows) that makes tight timings easier.
 
 If you click slightly too early, the mod remembers the click and fires it the moment you land or touch an orb. In ship, UFO, swing and wave it makes very quick taps come out consistent.
 
@@ -28,7 +28,7 @@ Switching wave mode in the middle of a wave section can cause one odd click, so 
 
 ## Install
 
-1. You need Geometry Dash 2.2081 on Windows with the [Geode](https://geode-sdk.org) loader installed.
+1. You need Geometry Dash 2.2091 on Windows with the [Geode](https://geode-sdk.org) loader installed.
 2. Download `lyophi.buffermod.geode` from the [Releases](../../releases) page.
 3. Put it in the `geode/mods` folder inside your Geometry Dash folder, then restart the game.
 
